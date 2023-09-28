@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PvZ_B",
+			"Path": "C:\\Users\\PC\\Documents\\PvZ_B\\Source\\PvZ_B.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PvZ_BEditor",
+			"Path": "C:\\Users\\PC\\Documents\\PvZ_B\\Source\\PvZ_BEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
